@@ -1,0 +1,340 @@
+
+.h1-1{
+    margin-left: 150px;
+    margin-top: 5px;
+}
+body{
+    
+   background-color: white;
+   max-width: 1100;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+h3{
+    color: slategray;
+    margin-bottom: 10px;
+    
+}
+
+.list-1{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    text-decoration: none;
+    margin-top: 30px;
+
+    
+}
+
+.list-1 a{
+    text-decoration: none;
+}
+
+.sec-2{
+    text-align: center;
+    color: slategray;
+}
+
+.div-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec-1{
+    background-image: url(banner_principa-1.jpg);
+    height: 650px;
+    background-size: 2000px 700px;
+    position: relative;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 0px;
+    padding: 0 150px;
+}
+.fun{
+    text-align: center;
+    color: slategray;
+}
+.segundo{
+    margin: 50px 0;
+}
+
+.caja-1{
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 120px;
+}
+.caja-1:hover{
+    border-color: #00d081;
+    border-style: solid;
+}
+.caja-1:hover .link-2{
+    color: #00d081;
+}
+
+.productos{
+    display: flex;
+    justify-content: flex-start;
+    
+
+}
+
+.categorias{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color: slategray;
+}
+
+.anticipo{
+    margin-left: 150px;
+    
+}
+
+.negocio{
+    text-align: center;
+    color: slategray;
+}
+
+.tres-img{
+     display: flex;
+     justify-content: center;
+}
+.plato{
+    background-image: url(tipo_negocio_restaurant.png);
+    width: 300px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+    margin-right: 100px;
+}
+.plato-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.plato-3{
+    margin-left: 110px;
+}
+.polo{
+    background-image: url(tipo_negocio_retail.png);
+    width: 300px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+}
+.polo-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.polo-3{
+    margin-left: 100px;
+}
+.pan{
+    background-image: url(tipo_negocio_fastfood.png);
+    width: 300px;
+    height: 280px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+    margin-left: 100px;
+}
+.pan-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.pan-3{
+    margin-left: 100px;
+}
+.equipos{
+    text-align: center;
+    color: slategray;
+}
+.link-2{
+    color: slategrey;
+}
+.inicio{
+    color: white;
+    margin-left: 150px;
+    margin-top: 200px;
+    width: 670px;
+}
+.inicio-uno{
+    height: 20px;
+    font-size: small;
+}
+.inicio-dos{
+    font-size: -webkit-xxx-large;;
+}
+.caja-equipo{
+    display: flex;
+    justify-content: center;
+    color: slategray;
+}
+.impre{
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.movil{
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: 50px;
+}
+.scanner{
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 150px; 
+    margin-left: 50px;
+}
+.clientes{
+    text-align: center;
+    color: slategray;
+}
+.clientes-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.ventas{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; 
+}
+.ventas-1{
+    margin-right: 100px;
+    width: 650px;
+}
+.ventas-1-1{
+    font-size: 30px;
+}
+.verde{
+    background-color: mediumaquamarine;
+    padding: 16px;
+    border-radius: 20px;
+}
+.verde:hover{
+    border-color: greenyellow;
+    border-style: solid;
+}
+.contactanos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+h2{
+    margin: 30px 0;
+}
+p{
+    margin-bottom: 20px;
+    
+}
+.entrada{
+    background-color: dimgrey;
+    padding: 5px 0;
+}
+.telefono{
+    width: 20px;
+    margin-left: 155px;
+}
+.uno{
+    color: silver;
+}
+.dos{
+    margin-left: 1400px;
+    color: silver;
+}
+.tres{
+    margin-left: 35px;
+    color: silver;
+}
+.buscanos{
+    color: black;
+}
+.caja-llama{
+    display: flex;
+    align-items: center;
+}
+.llamanos{
+    margin-left: 15px;
+    font-weight: 900;
+}
+.final{
+    background-color: dimgrey;
+    margin-top: 50px;
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+.final-1{
+    margin-left: 150px;
+    margin-bottom: 20px;
+    height: 150px;
+}
+.final-uno{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 200px
+}
+.final-2{
+    margin-left: 120px
+}
+.final-dos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100px;
+}
+.final-3{
+    margin-left: 120px;
+}
+.final-tres{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 65px;
+}
+.logo-final{
+    height: 30px;
+    margin-left: 430px;
+    margin-top: 70px;
+}
+.copy{
+    margin-left: 350px;
+    padding-top: 20px
+}
+.play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.play:hover{
+    border-color: white;
+    border-style: solid;
+    border-radius: 30px;
+}
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto;
+}

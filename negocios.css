@@ -1,0 +1,103 @@
+.entrada{
+    background-color: dimgrey;
+    padding: 5px 0;
+}
+.telefono{
+    width: 20px;
+    margin-left: 155px;
+}
+.uno{
+    color: silver;
+}
+.dos{
+    margin-left: 1400px;
+    color: silver;
+}
+.tres{
+    margin-left: 35px;
+    color: silver;
+}
+a{
+    color:black;
+    text-decoration: none; 
+}
+.h1-1{
+    margin-left: 150px;
+    margin-top: 5px;
+}
+.list-1{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    text-decoration: none;
+    margin-left: 1250px;
+}
+.sec-1{
+    background-color: white;
+    display: flex;
+}
+.verde{
+    background-color: mediumaquamarine;
+    padding: 16px;
+    border-radius: 20px;
+}
+.verde:hover{
+    border-color: greenyellow;
+    border-style: solid;
+}
+.restaurante{
+    background-image: url(banner_tipos_negocios-1440x424.png);
+    height: 650px;
+    background-size: 2000px 700px;
+    position: relative;
+}
+.tres-img{
+    display: flex;
+    justify-content: center;
+}
+.plato{
+    background-image: url(tipo_negocio_restaurant.png);
+    width: 300px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+    margin-right: 100px;
+}
+.plato-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.plato-3{
+    margin-left: 110px;
+}
+.polo{
+    background-image: url(tipo_negocio_retail.png);
+    width: 300px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+}
+.polo-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.polo-3{
+    margin-left: 100px;
+}
+.pan{
+    background-image: url(tipo_negocio_fastfood.png);
+    width: 300px;
+    height: 280px;
+    border-style: inset;
+    border-color:silver;
+    border-width: 5px; 
+    margin-left: 100px;
+}
+.pan-2{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+.pan-3{
+    margin-left: 100px;
+}
